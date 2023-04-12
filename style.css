@@ -1,0 +1,58 @@
+body{
+
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+#banner{
+    width: 100%;
+}
+
+.titulo-principal{
+    padding-right: 30px;
+}
+    /*
+    padding: 20px;margen interno
+    margin: 40px;margen externo*/
+
+p{
+    text-align: center;
+    background-color: #CCCCCC;
+}
+
+em strong{
+    color: red;
+}
+/*Selector del id mision*/
+#mision{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+.items{
+    font-style: italic;
+}
+
+.diferenciales{
+    background: white;
+    padding: 30px;
+}
+
+ul{
+    /* inline-block, hace que los bloques se ajusten solo al contenido que ocupa*/
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.img-diferenciales{
+    width: 50%;
+}
+
+.titulo-centralizadp{
+    text-align: center; 
+}
